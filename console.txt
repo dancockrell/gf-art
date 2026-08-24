@@ -1,0 +1,32 @@
+=== RUN START Fri 08/21/2026 17:13:20.12 
+Using "C:\Users\Admin\anaconda3\python.exe" 
+Python 3.13.9
+port 8188
+jobs: 12
+[1/12] HAWKEB/jump_1
+  saved jump_1
+[2/12] HAWKEB/jump_2
+  saved jump_2
+[3/12] HAWKEB/jump_3
+  saved jump_3
+[4/12] HAWKEB/crouch_1
+  saved crouch_1
+[5/12] HAWKEB/reload_1
+  saved reload_1
+[6/12] HAWKEB/reload_2
+  saved reload_2
+[7/12] KNOCHEN/death_1
+  saved death_1
+[8/12] KNOCHEN/death_2
+  saved death_2
+[9/12] KNOCHEN/death_3
+  saved death_3
+[10/12] TRUEMMER/death_1
+  saved death_1
+[11/12] TRUEMMER/death_2
+  saved death_2
+[12/12] TRUEMMER/death_3
+  saved death_3
+DONE -> C:\Users\Admin\Downloads\gf-art\r3
+LOG COMPLETE
+=== RUN END Fri 08/21/2026 17:14:52.78 

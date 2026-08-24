@@ -1,0 +1,56 @@
+port 8188
+jobs: 26
+[1/26] HAWKEB/idle_1
+  saved idle_1
+[2/26] HAWKEB/idle_2
+  saved idle_2
+[3/26] HAWKEB/run_1
+  saved run_1
+[4/26] HAWKEB/run_2
+  saved run_2
+[5/26] HAWKEB/run_3
+  saved run_3
+[6/26] HAWKEB/jump_1
+  saved jump_1
+[7/26] HAWKEB/jump_2
+  saved jump_2
+[8/26] HAWKEB/jump_3
+  saved jump_3
+[9/26] HAWKEB/crouch_1
+  saved crouch_1
+[10/26] HAWKEB/reload_1
+  saved reload_1
+[11/26] HAWKEB/reload_2
+  saved reload_2
+[12/26] KNOCHEN/death_1
+  saved death_1
+[13/26] KNOCHEN/death_2
+  saved death_2
+[14/26] KNOCHEN/death_3
+  saved death_3
+[15/26] TRUEMMER/death_1
+  saved death_1
+[16/26] TRUEMMER/death_2
+  saved death_2
+[17/26] TRUEMMER/death_3
+  saved death_3
+[18/26] MGTEAM/fire_1
+  saved fire_1
+[19/26] MGTEAM/fire_2
+  saved fire_2
+[20/26] MGTEAM/reload_1
+  saved reload_1
+[21/26] PANZERHUND/idle_1
+  saved idle_1
+[22/26] PANZERHUND/run_1
+  saved run_1
+[23/26] PANZERHUND/run_2
+  saved run_2
+[24/26] PANZERHUND/lunge_1
+  saved lunge_1
+[25/26] PANZERHUND/death_1
+  saved death_1
+[26/26] EISWITWE/attack_1
+  saved attack_1
+DONE -> C:\Users\Admin\Downloads\gf-art\r2
+LOG COMPLETE

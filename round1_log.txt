@@ -1,0 +1,92 @@
+port 8188
+jobs: 44
+[1/44] HAWKEB/idle_1
+  saved idle_1
+[2/44] HAWKEB/idle_2
+  saved idle_2
+[3/44] HAWKEB/run_1
+  saved run_1
+[4/44] HAWKEB/run_2
+  saved run_2
+[5/44] HAWKEB/run_3
+  saved run_3
+[6/44] HAWKEB/jump_1
+  saved jump_1
+[7/44] HAWKEB/jump_2
+  saved jump_2
+[8/44] HAWKEB/jump_3
+  saved jump_3
+[9/44] HAWKEB/crouch_1
+  saved crouch_1
+[10/44] HAWKEB/reload_1
+  saved reload_1
+[11/44] HAWKEB/reload_2
+  saved reload_2
+[12/44] HAWKEA/idle_1
+  saved idle_1
+[13/44] HAWKEA/idle_2
+  saved idle_2
+[14/44] HAWKEA/walk_1
+  saved walk_1
+[15/44] HAWKEA/walk_2
+  saved walk_2
+[16/44] HAWKEA/walk_3
+  saved walk_3
+[17/44] HAWKEA/run_1
+  saved run_1
+[18/44] HAWKEA/run_2
+  saved run_2
+[19/44] HAWKEA/run_3
+  saved run_3
+[20/44] KNOCHEN/death_1
+  saved death_1
+[21/44] KNOCHEN/death_2
+  saved death_2
+[22/44] CHIMAERE/death_1
+  saved death_1
+[23/44] CHIMAERE/death_2
+  saved death_2
+[24/44] EISWITWE/death_1
+  saved death_1
+[25/44] EISWITWE/death_2
+  saved death_2
+[26/44] TRUEMMER/death_1
+  saved death_1
+[27/44] TRUEMMER/death_2
+  saved death_2
+[28/44] PENDEL/death_1
+  saved death_1
+[29/44] PENDEL/death_2
+  saved death_2
+[30/44] MGTEAM/fire_1
+  saved fire_1
+[31/44] MGTEAM/fire_2
+  saved fire_2
+[32/44] MGTEAM/reload_1
+  saved reload_1
+[33/44] PANZER/walk_1
+  saved walk_1
+[34/44] PANZER/walk_2
+  saved walk_2
+[35/44] PANZER/attack_1
+  saved attack_1
+[36/44] PANZERHUND/idle_1
+  saved idle_1
+[37/44] PANZERHUND/run_1
+  saved run_1
+[38/44] PANZERHUND/run_2
+  saved run_2
+[39/44] PANZERHUND/lunge_1
+  saved lunge_1
+[40/44] PANZERHUND/death_1
+  saved death_1
+[41/44] JAEGER/idle_1
+  saved idle_1
+[42/44] JAEGER/aim_1
+  saved aim_1
+[43/44] JAEGER/fire_1
+  saved fire_1
+[44/44] JAEGER/death_1
+  saved death_1
+DONE -> C:\Users\Admin\Downloads\gf-art
+LOG COMPLETE
