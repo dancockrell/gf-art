@@ -1,6 +1,6 @@
 # Ghost Front — art
 
-Sprite frames for [Ghost Front](../ghost-front). 111 PNGs, organised one
+Sprite frames for [Ghost Front](https://github.com/dancockrell/ghost-front). 111 PNGs, organised one
 directory per unit, one file per animation frame.
 
 ## Naming
@@ -34,7 +34,7 @@ within it, starting at 1.
 ## Where these come from
 
 Frames are cut from annotated art plates by
-[`gf-pipeline`](../gf-pipeline), which extracts rows and frames from a
+[`gf-pipeline`](https://github.com/dancockrell/gf-pipeline), which extracts rows and frames from a
 sheet and reduces them to an indexed palette the game can draw:
 
 ```python
@@ -44,7 +44,7 @@ tables, pal = reduce.make_table(rows[0], target_h=52, ncol=12)
 print(reduce.js_literal('SCHUETZE', tables, pal, den=2))
 ```
 
-The generation side lives in [`gf-forge`](../gf-forge), which drives
+The generation side lives in [`gf-forge`](https://github.com/dancockrell/gf-forge), which drives
 ComfyUI from scripts rather than the node graph.
 
 ## Licence
